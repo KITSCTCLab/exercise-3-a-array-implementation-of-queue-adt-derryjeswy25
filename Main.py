@@ -22,6 +22,7 @@ class Solution:
         self.rear = -1
         self.front = -1
 
+        
     def is_stack_empty(self):
 
         """
